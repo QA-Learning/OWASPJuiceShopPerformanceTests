@@ -1,11 +1,12 @@
 
 OWASPJuiceShopPerformanceTests
 
-gatling-Owasp juice shop-demo
+Owasp juice shop-gatling-demo
 =========================
-
-Simple showcase of a maven project using the gatling-maven-plugin. Gatling is a developer tool to load test your
+Gatling is a developer tool to load test your
 web applications
+
+Simple showcase of a maven project using the gatling-maven-plugin. 
 
 To test it out, simply execute the following command:
 
