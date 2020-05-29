@@ -1,0 +1,15 @@
+{
+  "email": "${randomEmail}",
+  "password": "password",
+  "passwordRepeat": "password",
+  "securityAnswer": "AsDF",
+  "securityQuestion":{
+    "id": 1,
+    "question": "Your eldest siblings middle name?",
+    "createdAt": "2020-05-03T08:51:58.696Z",
+    "updatedAt": "2020-05-03T08:51:58.696Z"
+}
+}
+
+
+
